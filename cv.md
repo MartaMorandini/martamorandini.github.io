@@ -30,7 +30,7 @@ Dissertation: *Elliptic curves and cryptography* <br>
 Supervisors: Alberto Albano
 <hr>
 
-[Complete CV](/_data/cv.pdf){: .btn}
+[Complete CV](/_data/cv.pdf)
 
 <div class="container columns is-centered">
     <div>
