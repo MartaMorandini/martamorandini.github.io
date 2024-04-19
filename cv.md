@@ -4,13 +4,15 @@ layout: page
 ---
 #### Current position
 
-- **PhD student in Neuroscience** (Nov 2023-Present)
+- **PhD student in Neuroscience** (Nov 2023-Present) <br>
 with Andrea Brovelli and Matthieu Gilson at the Institute de Neuroscience de la Timone (INT), Marseille (FR).
+<hr>
 
 #### Past positions
 
-- **Internship** (Sep 2022-Apr 2023)
+- **Internship** (Sep 2022-Apr 2023) <br>
 with Giovanni Petri at CENTAI, Turin (IT)
+<hr>
 
 #### Education
 
