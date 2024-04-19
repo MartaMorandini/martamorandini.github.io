@@ -31,7 +31,7 @@ Supervisors: Alberto Albano
 
 <div class="container columns is-centered">
     <div>
-        <a href="{{site.url}}{{site.baseurl}}/_data/cv.pdf"
+        <a href="{{site.url}}{{site.baseurl}}/#_data/cv.pdf"
         class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Complete CV</a>
     </div>
 </div>
