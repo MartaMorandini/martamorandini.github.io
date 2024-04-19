@@ -1,5 +1,5 @@
 ---
-title: News
-layout: news
+title: Blog
+layout: blog
 ---
 
