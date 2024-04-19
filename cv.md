@@ -30,11 +30,11 @@ Dissertation: *Elliptic curves and cryptography* <br>
 Supervisors: Alberto Albano
 <hr>
 
-[Complete CV](/_data/cv.pdf)
+<!--[Complete CV](/_data/cv.pdf)-->
 
 <div class="container columns is-centered">
     <div>
-        <a href="_data/cv.pdf"
+        <a href="assets/cv/cv.pdf"
         class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Complete CV</a>
     </div>
 </div>
