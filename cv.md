@@ -28,10 +28,13 @@ Supervisors: Federica Galluzzi, Giovanni Petri
 University of Turin (IT)   
 Dissertation: *Elliptic curves and cryptography* <br>
 Supervisors: Alberto Albano
+<hr>
+
+[Complete CV](/_data/cv.pdf){: .btn}
 
 <div class="container columns is-centered">
     <div>
-        <a href="{{site.url}}{{site.baseurl}}/#_data/cv.pdf"
+        <a href="_data/cv.pdf"
         class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Complete CV</a>
     </div>
 </div>
