@@ -1,19 +1,17 @@
 <section class="hero is-fullheight has-text-centered" id="contact">
+    <h3 class="is-size-1 is-uppercase has-text-weight-semibold has-text-black is-marginless">
+            Spot me here
+    </h3>
     <div class="hero-body">
-        <div>   
-            <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
-                Spot me here
-           </h3>
-        </div>
         <div class="column is-full is-size-1">
             {%- if site.email -%}
-            <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="has-text-black"><i class="fas fa-envelope"></i></a>
+            <a href="mailto:{{ site.email | encode_email }}" title="E-mail"><i class="has-text-black"><i class="fas fa-envelope"></i></a>
             {% endif %}
             {%- if site.telegram_username -%}
-            <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="has-text-black"><i  class="fab fa-telegram"></i></a>
+            <a href="https://telegram.me/{{ site.telegram_username }}" title="Telegram"><i class="has-text-black"><i  class="fab fa-telegram"></i></a>
             {% endif %}
             {%- if site.whatsapp_number -%}
-            <a href="https://wa.me/{{ site.whatsapp_number }}" title="whatsapp"><i class="has-text-black"><i class="fab fa-whatsapp"></i></a>
+            <a href="https://wa.me/{{ site.whatsapp_number }}" title="WhatsApp"><i class="has-text-black"><i class="fab fa-whatsapp"></i></a>
             {% endif %}
             {%- if site.orcid_id -%}
             <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="has-text-black"><i class="fa-brands fa-orcid"></i></a>
