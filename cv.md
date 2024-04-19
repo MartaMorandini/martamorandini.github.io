@@ -8,10 +8,14 @@ layout: page
 with Andrea Brovelli and Matthieu Gilson at the Institute de Neuroscience de la Timone (INT), Marseille (FR).
 <hr>
 
-#### Past positions
+#### Experience
 
 - **Internship** (Sep 2022-Apr 2023) <br>
 with Giovanni Petri at CENTAI, Turin (IT)
+- **Tutor** (2018-2019) <br>
+*Scuola dei compiti*: maths and physics tutoring for high school students
+- **Tutor** (2021) <br>
+*Matematica e scienza: sostantivi femminili*: workshops about women in STEM for high school students
 <hr>
 
 #### Education
@@ -24,3 +28,11 @@ Supervisors: Federica Galluzzi, Giovanni Petri
 University of Turin (IT)   
 Dissertation: *Elliptic curves and cryptography* <br>
 Supervisors: Alberto Albano
+
+<div class="container columns is-centered">
+    <div>
+        <a href="{{site.url}}{{site.baseurl}}/_data/cv.pdf"
+        class="button is-rounded is-uppercase has-text-weight-normal is-black is-outlined">Complete CV</a>
+        </a>
+    </div>
+</div>
