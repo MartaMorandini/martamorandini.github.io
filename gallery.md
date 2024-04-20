@@ -38,7 +38,7 @@ layout: page
 
 <div class="container has-centered-text">
   <img src="assets/images/gallery/monet.JPG" alt="Avatar" class="image">
-  <div class="overlay">My Name is John</div>
+  <div class="overlay">Impression de Paris</div>
 </div>
 
 </body>
