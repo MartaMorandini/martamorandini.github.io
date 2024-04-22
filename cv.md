@@ -20,14 +20,12 @@ with Giovanni Petri at CENTAI, Turin (IT)
 
 #### Education
 
-- **Msc in Mathematics**   
-University of Turin (IT)   
+- **Msc in Mathematics** -University of Turin (IT) <br>
 Dissertation: *Topological fingerprints of brain individuality and age* <br>
 Supervisors: Federica Galluzzi, Giovanni Petri
-- **Bsc in Mathematics** 
-University of Turin (IT)   
+- **Bsc in Mathematics** - University of Turin (IT)   <br>
 Dissertation: *Elliptic curves and cryptography* <br>
-Supervisors: Alberto Albano
+Supervisor: Alberto Albano
 <hr>
 
 <!--[Complete CV](/_data/cv.pdf)-->

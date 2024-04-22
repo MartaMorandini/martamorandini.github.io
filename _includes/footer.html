@@ -28,13 +28,16 @@
             <!--Link Section-->
             <div class="column has-text-white">
                 <h3>More Links</h3>
-                {% for sitepage in site.html_pages offset: 4 %}
+                {% for sitepage in site.html_pages offset: 6 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
                 <li>
                     <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>
                 </li>
                 <li>
                     <a href="https://scholar.google.com/citations?user=E4Hje4QAAAAJ&hl=it">Google Scholar</a>
+                </li>
+                <li>
+                    <a href="https://orcid.org/my-orcid?orcid=0009-0005-0324-6094">My ORCiD</a>
                 </li>
                 {% endunless %}
                 {% endfor %}
