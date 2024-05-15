@@ -29,26 +29,26 @@ layout: compress
             {% unless page.description.size == 0 %}
             <p id="description" class="content is-small has-text-weight-medium is-uppercase">{{page.description | strip | strip_html | strip_newlines }}</p>
             {% endunless %}
-            <p class="subtitle is-6 is-uppercase has-text-weight-normal has-text-black-ter">Published on
-              <b>{{ page.date | date: "%-B %d, %Y" }}</b> by <a href="{% if site.author-url %}{{site.author-url}}{% else %}{{site.url}}{{site.baseurl}}/#about{% endif %}" target="_blank"><b class="has-text-link"><u>{{site.author-name}}</u></b>
-              </a>
+            <p class="subtitle is-6 is-uppercase has-text-weight-normal has-text-black-ter">
+              <b>{{ page.date | date: "%-B %d, %Y" }}</b> 
             </p>
             {%- assign tags = page.tags -%}
             {%- unless tags.size == 0 -%}
-            <p class="subtitle is-uppercase">
-              <i class="fas fa-tags"></i>
+            <p class="subtitle is-uppercase" >
+              <i class="fas fa-tags" style="color:#c9a0dc;" ></i>
               {% assign i = 0 %}
               {% for tags in page.tags %}
-              <span class="tag is-link">{{page.tags[i]}}</span>
+              <tagname style="color:#c9a0dc;"> {{page.tags[i]}}</style>
+              <!--<span class="tag is-link">{{page.tags[i]}}</span>-->
               {% assign i = i | plus:1 %}
               {% endfor %}
             </p>
             {%- endunless -%}
             {% assign words = content | number_of_words %}
             {%- unless content.size == 0 -%}
-            <p class="subtitle is-uppercase"><i class="fas fa-clock"></i> <b class="has-text-link">
-                {{ words | divided_by:180 }} min
-              </b>READ</p>
+            <p class="subtitle is-uppercase" ><i class="fas fa-clock" style="color:#c9a0dc;"></i> <b class="has-text-link" style="color:#c9a0dc;">
+                <tagname style="color:#c9a0dc;">{{ words | divided_by:180 }} min</tagname> 
+              </b>read</p>
             {%- endunless -%}
           </div>
         </div>
@@ -63,7 +63,7 @@ layout: compress
   </section>
   {% include footer.html %}
 </body>
-<script>
+<!--<script>
   /**
    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
@@ -80,6 +80,5 @@ layout: compress
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
-</script>
-
+</script>-->
 </html>
