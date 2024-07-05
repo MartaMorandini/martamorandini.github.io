@@ -119,6 +119,10 @@ body {
         <div class="overlay">Marseille, 2024</div>
       </div>
       <div class="container">
+        <img src="/assets/images/gallery/musaba_2019.jpg" style="width:100%">
+        <div class="overlay">Parco Museo MUSABA, 2019</div>
+      </div>
+      <div class="container">
         <img src="/assets/images/gallery/venezia_2023.JPG" style="width:100%">
         <div class="overlay">Venezia, 2023</div>
       </div>
@@ -136,6 +140,10 @@ body {
         <img src="/assets/images/gallery/jago_2023.jpeg" style="width:100%">
         <div class="overlay">Napoli, 2023</div>
       </div>
+       <div class="container">
+        <img src="/assets/images/gallery/cavaglià_2022.jpeg" style="width:100%">
+        <div class="overlay">Cavaglià, 2022</div>
+    </div>
       <div class="container">
         <img src="/assets/images/gallery/matera_2020.JPG" style="width:100%">
         <div class="overlay">Alba, 2020</div>
