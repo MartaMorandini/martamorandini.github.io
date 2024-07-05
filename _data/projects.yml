@@ -1,3 +1,7 @@
+- name: Mobility patterns and segregation
+  image: "/assets/images/projects/mobility_segregation.png"
+  link: https://arxiv.org/abs/2407.01799
+  description: M. Duran-Sala, A.K. Balachandran, <b>M. Morandini</b>, T. Naushirvanov, A. Prabhakaran, A. Renninger, M. Mazzoli
 - name: Higher-order Laplacian Renormalization
   image: "/assets/images/projects/holr.png"
   link: https://arxiv.org/abs/2401.11298

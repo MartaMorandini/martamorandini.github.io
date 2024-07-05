@@ -1,17 +1,18 @@
 ---
-title: Complexity72h - 24-28 June, Madrid
+title: Complexity72h Workshop
 layout: post
 post-image: "/assets/images/post/complexity72h_group.jpg"
-description: 
+description: The 5th edition of Complexity72h Workshop, in Leganés - June 24-28, 2024
 tags:
 - workshop
 - complex systems
 ---
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-    * {
+* {
   box-sizing: border-box;
 }
 
@@ -55,13 +56,11 @@ h1 {text-align: center;}
 
 <body>
 <h2 style="text-align: center;">
-Complexity72h Workshop - SegXy Team
+SegXy Team
 </h2>
 
-For the fifth edition of the <a href="https://complexity72h.com/" style="color:#c9a0dc;">workshop</a>, I had the opportunity to be in Leganés (Madrid). 
-<br>
-<br>
-Here I joined the project proposed by <a href="https://mattiamazzoli.github.io/" style="color:#c9a0dc;">Mattia Mazzoli</a> about mobility patterns and segregation in Spain. 
+For the <a href="https://complexity72h.com/" style="color:#c9a0dc;">fifth edition</a> of the  <a href="https://twitter.com/Complexity72h/status/1806779566968766824
+" style="color:#c9a0dc;">Complexity72h Workshop</a>, I joined the project proposed by <a href="https://mattiamazzoli.github.io/" style="color:#c9a0dc;">Mattia Mazzoli</a> about mobility patterns and segregation in Spain. 
 We manage to produce a full paper in just 72 hours and I think it turned out pretty great.
 It's still a work in progress, but Mattia was pretty amazing at supervising six people all at once. 
 
