@@ -146,7 +146,7 @@ body {
     </div>
       <div class="container">
         <img src="/assets/images/gallery/matera_2020.JPG" style="width:100%">
-        <div class="overlay">Alba, 2020</div>
+        <div class="overlay">Matera, 2020</div>
       </div>
   </div>
 </div>

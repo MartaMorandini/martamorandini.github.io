@@ -95,4 +95,22 @@ img {
         <a href="https://scholar.google.com/citations?user=vAaWpu8AAAAJ&hl=it">
             <img src="assets/images/people/nurisso.jpg" title="Marco Nurisso" class="center">
         </a>
+        <a href="https://mattiamazzoli.github.io/">
+            <img src="assets/images/people/mattia_mazzoli.jpg" title="Mattia Mazzoli" class="center">
+        </a>
+        <a href="https://scholar.google.com/citations?hl=it&user=qg3HXEAAAAAJ">
+            <img src="assets/images/people/adarsh.jpg" title="Adarsh Prabhakaran" class="center">
+        </a>
+        <a href="https://profiles.ucl.ac.uk/85426-andrew-renninger">
+            <img src="assets/images/people/andrew.jpg" title="Andrew Renninger" class="center">
+        </a>
+        <a href="https://scholar.google.com/citations?user=3eIhNR8AAAAJ&hl=ca">
+            <img src="assets/images/people/marc_durand_sala.jpg" title="Marc Duran-Sala" class="center">
+        </a>
+        <a href="https://scholar.google.com/citations?user=v4F7US4AAAAJ&hl=en">
+            <img src="assets/images/people/timur.jpg" title="Timur Naushirvanov" class="center">
+        </a>
+        <a href="https://scholar.google.com/citations?user=oPw8GTIAAAAJ&hl=en">
+            <img src="assets/images/people/anandu.jpg" title="Anandu Koikkalethu Balachandran" class="center">
+        </a>
 </div>
