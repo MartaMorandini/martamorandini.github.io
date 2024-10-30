@@ -1,3 +1,7 @@
+- name: Brain Health Trajectories
+  image: "/assets/images/projects/bht.png"
+  link: https://www.brain-health-trajectories.org/
+  description: <b>M. Morandini</b>, M. Gilson*, A. Brovelli*
 - name: Mobility patterns and segregation
   image: "/assets/images/projects/mobility_segregation.png"
   link: https://arxiv.org/abs/2407.01799
