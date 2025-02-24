@@ -1,3 +1,7 @@
+- name: Higher-order Laplacian Renormalization
+  image: "/assets/images/projects/holr.png"
+  link: https://www.nature.com/articles/s41567-025-02784-1
+  description: M. Nurisso, <b>M. Morandini</b>, M. Lucas, F. Vaccarino, T. Gili, G. Petri
 - name: Brain Health Trajectories
   image: "/assets/images/projects/bht.png"
   link: https://www.brain-health-trajectories.org/
@@ -6,10 +10,6 @@
   image: "/assets/images/projects/mobility_segregation.png"
   link: https://arxiv.org/abs/2407.01799
   description: M. Duran-Sala, A.K. Balachandran, <b>M. Morandini</b>, T. Naushirvanov, A. Prabhakaran, A. Renninger, M. Mazzoli
-- name: Higher-order Laplacian Renormalization
-  image: "/assets/images/projects/holr.png"
-  link: https://arxiv.org/abs/2401.11298
-  description: M. Nurisso, <b>M. Morandini</b>, M. Lucas, F. Vaccarino, T. Gili, G. Petri
 - name: Curvy Clay
   image: "/assets/images/projects/curvy_clay.png"
   link: https://www.instagram.com/curvy_clay/

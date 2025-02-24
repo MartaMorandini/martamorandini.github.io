@@ -13,7 +13,7 @@ description: Mathematician swimming in Computational Neuroscience
 # URL of Image of the Site
 site-image: /assets/images/logo.png
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Complex Systems, Computational Neuroscience
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -97,3 +97,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - gallery/
