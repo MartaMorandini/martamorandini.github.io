@@ -1,3 +1,7 @@
+- name: Behind the paper
+  image: "/assets/images/projects/btp.png"
+  link: https://communities.springernature.com/posts/higher-order-laplacian-renormalization
+  description: Higher-order Laplacian Renormalization
 - name: Higher-order Laplacian Renormalization
   image: "/assets/images/projects/holr.png"
   link: https://www.nature.com/articles/s41567-025-02784-1
