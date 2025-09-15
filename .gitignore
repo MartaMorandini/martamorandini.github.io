@@ -21,6 +21,9 @@ _site/
 /test/version_tmp/
 /tmp/
 
+# do not include
+gallery.md
+
 # Used by dotenv library to load environment variables.
 # .env
 
