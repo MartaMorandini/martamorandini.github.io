@@ -10,6 +10,8 @@ with Andrea Brovelli and Matthieu Gilson at the Institute de Neurosciences de la
 
 #### Experience
 
+- **Visiting PhD student** (Nov 2025-Feb 2026) - Turin (IT) <br>
+with Annachiara Crocetta and Franco Cauda at Department of Psychology, Biotechnology for Neuroscience
 - **Internship** (Sep 2022-Apr 2023) - Turin (IT) <br>
 with Giovanni Petri at CENTAI
 - **Tutor** (2018-2019) - University of Turin (IT) <br>
