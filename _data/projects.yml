@@ -1,11 +1,15 @@
-- name: Behind the paper
+- name: Functional and Structural Brain Age Gaps as Complementary Predictive Markers for Cognitive Performance
+  image: "/assets/images/projects/brain_age.png"
+  link: https://www.biorxiv.org/content/10.64898/2026.10.20.760445v1
+  description: A. Crocetta & <b>M. Morandini</b>, et al. (2026)
+- name: Behind the paper - Higher-order Laplacian Renormalization
   image: "/assets/images/projects/btp.png"
   link: https://communities.springernature.com/posts/higher-order-laplacian-renormalization
-  description: Higher-order Laplacian Renormalization
+  description: M. Morandini & M. Nurisso (2025)
 - name: Higher-order Laplacian Renormalization
   image: "/assets/images/projects/holr.png"
   link: https://www.nature.com/articles/s41567-025-02784-1
-  description: M. Nurisso, <b>M. Morandini</b>, M. Lucas, F. Vaccarino, T. Gili, G. Petri
+  description: M. Nurisso, et al. (2025)
 - name: Brain Health Trajectories
   image: "/assets/images/projects/bht.png"
   link: https://www.brain-health-trajectories.org/
@@ -13,7 +17,7 @@
 - name: Mobility patterns and segregation
   image: "/assets/images/projects/mobility_segregation.png"
   link: https://arxiv.org/abs/2407.01799
-  description: M. Duran-Sala, A.K. Balachandran, <b>M. Morandini</b>, T. Naushirvanov, A. Prabhakaran, A. Renninger, M. Mazzoli
+  description: T. Naushirvanov, et al. (2024)
 - name: Curvy Clay
   image: "/assets/images/projects/curvy_clay.png"
   link: https://www.instagram.com/curvy_clay/
